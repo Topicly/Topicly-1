@@ -1,2 +1,0 @@
-# Topicly
-Official Topicly Repository
